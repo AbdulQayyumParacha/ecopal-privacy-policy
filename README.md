@@ -2,7 +2,7 @@
 
 Privacy Policy for EcoPaL Discord Bot
 
-At EcoPaL, accessible from [your bot's invite URL], one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by EcoPaL and how we use it.
+At EcoPaL, accessible from https://discord.com/api/oauth2/authorize?client_id=1175081690130034720&permissions=8&scope=bot%20applications.commands, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by EcoPaL and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
