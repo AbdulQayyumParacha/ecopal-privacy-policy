@@ -1,0 +1,1 @@
+# ecopal-privacy-policy
